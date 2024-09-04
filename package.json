@@ -1,0 +1,12 @@
+{
+  "name": "t3pc",
+  "version": "1.0.0",
+  "description": "Tiny-Three-Pass-Compiler",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "type": "module",
+  "author": "hua-zhi-wamn",
+  "license": "MIT"
+}
