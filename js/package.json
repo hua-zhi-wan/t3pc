@@ -2,9 +2,9 @@
   "name": "t3pc",
   "version": "1.0.0",
   "description": "Tiny-Three-Pass-Compiler",
-  "main": "index.js",
+  "main": "t3pc.js",
   "scripts": {
-    "test": "node index.js"
+    "test": "node t3pc.js"
   },
   "type": "module",
   "author": "hua-zhi-wamn",

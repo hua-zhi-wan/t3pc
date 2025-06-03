@@ -1,7 +1,7 @@
 import Compiler from './compiler.js'
 import Interpreter from './interpreter.js'
 import { createInterface } from 'readline'
-import { stdin, stdout, exit } from 'process'
+import { stdin, stdout } from 'process'
 
 const compiler = new Compiler()
 const interpreter = new Interpreter()
